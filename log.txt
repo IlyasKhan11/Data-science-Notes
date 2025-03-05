@@ -1,0 +1,4 @@
+This is a log message
+This is another log message
+This is a third log message
+This is a fourth log message
